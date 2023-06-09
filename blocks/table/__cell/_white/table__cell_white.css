@@ -1,0 +1,7 @@
+.table__cell_white {
+    width: 205px;
+}
+
+.table__cell_white:not(:nth-last-child(-n+5)) {
+    margin-bottom: 80px;
+}

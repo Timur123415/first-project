@@ -1,0 +1,11 @@
+.resources {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+    padding: 100px 0 217px 0;
+}
+
+.resources .section-subtitle {
+    margin-bottom: 80px;
+}

@@ -1,0 +1,10 @@
+.video {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 432px;
+}
+
+.video .section-subtitle {
+    margin-bottom: 50px;
+}

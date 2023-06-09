@@ -1,0 +1,14 @@
+.footer__social-links {
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 30px;
+    opacity: 0.6;
+
+    margin: 0;
+    padding-left: 23px;
+}
+
+.footer__social-links a {
+    color: #fff;
+    text-decoration: none;
+}
